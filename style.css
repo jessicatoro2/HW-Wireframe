@@ -63,14 +63,14 @@ article {
 h1 {
   background: #ebebeb;
   padding: 20px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right:0px;
-  margin-bottom: 90px;
+  margin-bottom: 95px;
   margin-top: -225px;
   text-align: center;
   float: center;
-  width: 452px;
-  height: 20px;
+  width: 430px;
+  height:15px;
   color: gray;
   font-size: 18px;
 
@@ -79,14 +79,14 @@ h1 {
 p {
   background: #ebebeb;
   padding: 20px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right:0px;
-  margin-bottom: 35px;
+  margin-bottom: 45px;
   margin-top: -85px;
   text-align: center;
   float: center;
-  width: 452px;
-  height: 20px;
+  width: 430px;
+  height: 15px;
   color: gray;
   font-size: 18px;
 }
