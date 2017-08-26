@@ -7,7 +7,7 @@ body {
 
 }
 
-header, nav, footer {
+header, nav {
   background: #ebebeb;
   padding: 20px;
   margin-left:90px;
@@ -91,5 +91,16 @@ p {
   font-size: 18px;
 }
 
+footer {
+  background: #ebebeb;
+  padding: 20px;
+  margin-left:90px;
+  margin-right:90px;
+  margin-bottom: 8px;   
+  text-align: center;
+  color: gray;
+  clear: both;
+
+ 
 
 }
